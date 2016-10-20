@@ -1,5 +1,5 @@
 ## About
-Simple, minimalistic jekyll template based on [Jalpc](https://github.com/Jack614/jalpc_jekyll_theme/graphs/contributors) best suited for online portfolios.
+Simple, minimalist jekyll template based on [Jalpc](https://github.com/Jack614/jalpc_jekyll_theme/graphs/contributors) best suited for online portfolios.
 
 ## Requirements
 1. `ruby -> sudo apt-get install ruby`
