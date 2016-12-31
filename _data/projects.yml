@@ -27,6 +27,6 @@
   url: 'https://github.com/lucasschejtman/meetup-globe'
   img: 'static/img/landing/meetup.png'
   desc: >
-          Chrome Experiment about Meetup's members distribution worldwide.
-          <br /> <a href="/e/meetup-globe/">Demo</a>
+          Chrome Experiment for Meetup's members distribution worldwide.
+          <br /><a href="/e/meetup-globe/">Demo</a>
           <br /><strong>JS, WebGL</strong>
