@@ -1,4 +1,4 @@
-- name: "Solutions Architect"
+- name: "Principal Software Engineer"
   place: "Orion Health"
   website: "http://www.orionhealth.com"
   icon: 'icon-embed2'
@@ -17,7 +17,7 @@
   desc: >
           Driving digital transformation.
           <br />Web development and DevOps.
-          <br />C#, AWS, JS, ElasticSearch, NodeJS, React, PGSQL, Docker
+          <br />C#, AWS, JS, ElasticSearch, NodeJS, React, PGSQL, Docker, Falcor
 - name: "Technical Lead"
   place: "Findly"
   website: "http://wwww.findly.com"
