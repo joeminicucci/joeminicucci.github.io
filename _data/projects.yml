@@ -28,7 +28,6 @@
   desc: >
           The Jekyll theme on which this website is built.
           <br /><strong>JS, Liquid Templates</strong>
-#<a href="https://www.chromeexperiments.com/globe">Chrome Experiment</a>
 - name: 'Meetup Globe'
   url: 'https://github.com/lucasschejtman/meetup-globe'
   img: 'static/img/landing/meetup.png'
