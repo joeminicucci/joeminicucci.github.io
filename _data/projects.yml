@@ -4,6 +4,12 @@
   desc: >
           A GraphQL wrapper for some of the unofficial IMDB APIs.
           <br /><strong>JS, Ramda, FlowType</strong>
+- name: 'VSCode Typesearch'
+  url: 'https://github.com/lucasschejtman/vscode-typesearch'
+  img: 'static/img/landing/vscode.png'
+  desc: >
+          VSCode extension for searching and installing typescript types
+          <br /><strong>Typescript</strong>
 - name: 'Functional React'
   url: 'https://github.com/lucasschejtman/react-redux-functional'
   img: 'static/img/landing/react.png'
