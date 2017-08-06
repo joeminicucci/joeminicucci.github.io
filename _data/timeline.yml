@@ -1,13 +1,13 @@
-- name: "Principal Software Engineer"
+- name: "Product Architect"
   place: "Orion Health"
   website: "http://www.orionhealth.com"
   icon: 'icon-embed2'
   title: 'Work'
   date: 'Aug 2016 - Present'
   desc: >
-          Redefining the architecture plan for the next 5 years.
-          <br />Web development and DevOps.
-          <br />AWS, JS, NodeJS, React, Docker, GraphQL
+          Redefining the architecture for the next 5 years.
+          <br />Web/Mobile development and DevOps.
+          <br />AWS, JS, NodeJS, React, React-Native, Docker, GraphQL
 - name: 'Solutions Architect'
   place: 'Bauer Media'
   website: 'http://www.bauermedia.com'
