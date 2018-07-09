@@ -634,3 +634,9 @@ a:focus {
 .icon-linkedin2:before {
   content: "\eaca";
 }
+.icon-pdf::before
+{
+    /* would like to get rid of the explicit font family hack-in, however the above strategy isnt working on the pdf item with pure ASCII*/
+    font-family: FontAwesome;
+    content:"\f1c1";
+}

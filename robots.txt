@@ -2,3 +2,4 @@
 title: robots
 ---
 User-agent: *
+Disallow: /

@@ -1,23 +1,23 @@
 # Website settings
-title: "Lucas Schejtman"
-description: "Lucas Schejtman's personal website."
-keywords: "Lucas,Schejtman,personal,portfolio"
+title: "Joe Minicucci"
+description: "Joe Minicucci's personal website."
+keywords: "joe,minicucci,resume,personal,portfolio"
 baseurl: "/"
-url: "http://lucasschejtman.github.io"
-favicon: "static/img/favicon.ico?v=2"
+url: "http://joeminicucci.github.io"
+favicon: "static/img/kali2.png?v=2"
 
 author:
-  name: 'Lucas Schejtman'
-  email: 'lucas.schejtman@gmail.com'
-  github: 'https://github.com/lucasschejtman'
-  linkedin: 'https://www.linkedin.com/in/lucas-schejtman-29300b32'
-  head_img: 'static/img/landing/lucas.jpg'
-  tag: 'Mathematics, Software, Sports and Video Games'
+  name: 'Joe Minicucci'
+  email: 'joeisadev@sudomail.com'
+  github: 'https://github.com/joeminicucci'
+  linkedin: 'https://www.linkedin.com/in/joeminicucci'
+  cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf' # An online CV can be printed as PDF, leave blank if you don't have now
+  head_img: 'static/img/kali2.png'
+  tag: 'Software Engineering, Information Security, Wireless, Arduino, Big Data'
   desc: >
-            Applied math enthusiast, especially cryptography and functional programming, with over 13 years experience in the software industry.
-            <br />As a full stack developer and architect, I'm always up for a challenge at any front.
-            <br />I enjoy keeping myself up to date and playing with the latest and greatest.
-
+    I am a full stack engineer who strives to be a generalist, and loves to experiment with new technologies. I am interested in a variety of fields
+    including: Big Data, Information Security, Network Programming, and Distributed Systems. I hope
+    to provide innovative spirit in the face of any technical challenge posed, as well as to aid Agile teams in practical software development methodologies.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
@@ -39,10 +39,13 @@ sections:
   - id: "projects"
     name: "Projects"
     tpl: "projects.html"
+  # - id: "contact"
+  #   name: "Contact"
+  #   tpl: contact.html
 
 # google analytics
-ga:
-  id: UA-84338948-1
+# ga:
+  # id:
 
 # Build settings
 encoding: "utf-8"
