@@ -28,12 +28,12 @@
   url: 'https://defcon.org/html/links/dc-ctf.html'
   img: 'static/img/defcon.jpg'
   desc: >
-        Acquired rogue access point using a Raspberry Pi equipped with a Yagi
-        <br> directional antenna
+        Acquired rogue access point using a Raspberry 
+        <br> Pi equipped with a Yagi directional antenna
         <br /><strong>airodump-ng, Raspberry Pi</strong>
 
 - name: 'Jalpc'
-  url: 'https://github.com/joeminicucci/website'
+  url: 'https://github.com/joeminicucci/joeminicucci.github.io/'
   img: 'static/img/landing/jekyll.png'
   desc: >
           The Jekyll theme on which this website is built.
