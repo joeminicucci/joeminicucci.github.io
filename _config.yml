@@ -17,7 +17,7 @@ author:
   desc: >
     I am a full stack engineer who strives to be a generalist, and loves to experiment with new technologies. I am interested in a variety of fields
     including: Big Data, Information Security, Network Programming, and Distributed Systems. I hope
-    to provide innovative spirit in the face of any technical challenge posed, as well as to aid Agile teams in practical software development methodologies.
+    to foster innovation, as well as to aid Agile teams in practical software development methodologies.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
@@ -49,5 +49,3 @@ sections:
 
 # Build settings
 encoding: "utf-8"
-
-theme: jekyll-theme-cayman

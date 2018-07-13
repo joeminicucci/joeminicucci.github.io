@@ -483,7 +483,7 @@ a:focus {
 .landing-page .social-icon a {
   background: #3385FF;
   color: #fff;
-  padding: 4px 8px;
+  padding: 4px;
   height: 28px;
   width: 28px;
   display: block;
@@ -592,11 +592,11 @@ a:focus {
 
 @font-face {
   font-family: 'icomoon';
-  src:  url('../fonts/icomoon.eot?dq67tk');
-  src:  url('../fonts/icomoon.eot?dq67tk#iefix') format('embedded-opentype'),
-    url('../fonts/icomoon.ttf?dq67tk') format('truetype'),
-    url('../fonts/icomoon.woff?dq67tk') format('woff'),
-    url('../fonts/icomoon.svg?dq67tk#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?ltpwl');
+  src:  url('../fonts/icomoon.eot?ltpwl#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?ltpwl') format('truetype'),
+    url('../fonts/icomoon.woff?ltpwl') format('woff'),
+    url('../fonts/icomoon.svg?ltpwl#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -636,7 +636,5 @@ a:focus {
 }
 .icon-pdf::before
 {
-    /* would like to get rid of the explicit font family hack-in, however the above strategy isnt working on the pdf item with pure ASCII*/
-    font-family: FontAwesome;
-    content:"\f1c1";
+    content:"\eadf";
 }

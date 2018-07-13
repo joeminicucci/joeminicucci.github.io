@@ -41,3 +41,14 @@
           .NET route accounting applications
           <br />Web development
           <br />VB.NET, MySQL, JS, NodeJS
+
+- name: "Computer Science Student"
+  place: "Colorado State University"
+  website: "http://www.cs.colostate.edu"
+  icon: 'icon-book'
+  title: 'Education'
+  date: 'Aug 2013 - May 2016'
+  desc: >
+          B.S. Computer Science, Minor in Chinese language
+          <br /> Hashdump Information Security Club, Chinese Club
+          <br /> Dean's List, Phi Theta Kappa, Gamma Beta Phi
