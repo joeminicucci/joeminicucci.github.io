@@ -522,6 +522,14 @@ a:focus {
   .landing-page .featurette-heading {
     font-size: 50px;
   }
+  .landing-page .footer{
+      margin-top: 10px;
+      margin-bottom: 10px;
+      background: #3385FF;
+  }
+  .landing-page .footerRow{
+      background: #3385FF;
+  }
 }
 @media (max-width: 768px) {
   .landing-page .navbar.navbar-scroll .navbar-brand {
