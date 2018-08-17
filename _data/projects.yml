@@ -1,9 +1,9 @@
 - name: 'Fox Trap'
-  url: 'https://github.com/joeminicucci/'
+  url: 'https://github.com/joeminicucci/fox_trap'
   img: 'static/img/landing/fox.png'
   desc: >
           A wireless mesh of esp8266 chips designed to sniff specific wireless
-          <br> packets in the air (releasing open source end of the year)
+          <br> packets in the air and communicate messages back to a C2
           <br /><strong>C++, Arduino, EspressIf SDK</strong>
 
 - name: 'IEEE Publication'
