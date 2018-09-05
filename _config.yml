@@ -8,7 +8,7 @@ favicon: "static/img/kali2.png?v=2"
 
 author:
   name: 'Joe Minicucci'
-  email: 'joeisadev@sudomail.com'
+  email: 'uwxnvjn5muxs@opayq.com'
   github: 'https://github.com/joeminicucci'
   linkedin: 'https://www.linkedin.com/in/joeminicucci'
   cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf' # An online CV can be printed as PDF, leave blank if you don't have now
@@ -16,7 +16,7 @@ author:
   tag: 'Software Engineering, Information Security, Wireless, Arduino, Big Data'
   desc: >
     I am a full stack engineer who strives to be a generalist, and loves to experiment with new technologies. I am interested in a variety of fields
-    including: Big Data, Information Security, Network Programming, and Distributed Systems. I hope
+    including: Information Security, Network Programming, Big Data and Distributed Systems. I hope
     to foster innovation, as well as to aid Agile teams in practical software development methodologies.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
