@@ -15,9 +15,8 @@ author:
   head_img: 'static/img/kali2.png'
   tag: 'Software Engineering, Information Security, Wireless, Arduino, Big Data'
   desc: >
-    I am a full stack engineer who strives to be a generalist, and loves to experiment with new technologies. I am interested in a variety of fields
-    including: Information Security, Network Programming, Big Data and Distributed Systems. I hope
-    to foster innovation, as well as to aid Agile teams in practical software development methodologies.
+    I am a Security Enginner who loves to tinker with technology. I am interested in a variety of fields
+    including: Information Security, Network Programming, and Distributed Systems.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
