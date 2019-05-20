@@ -12,7 +12,7 @@ author:
   github: 'https://github.com/joeminicucci'
   linkedin: 'https://www.linkedin.com/in/joeminicucci'
   cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf' # An online CV can be printed as PDF, leave blank if you don't have now
-  head_img: 'static/img/me_circuit.png'
+  head_img: 'static/img/me_circuit.jpg'
   tag: 'Information Security, Application Security, Wireless, Arduino, Distributed Systems, Network Programming, Software Engineering'
   desc: >
     I am a Security Enginner who loves to tinker with technology. I am interested in a variety of fields
