@@ -1,3 +1,14 @@
+- name: "Application Security Engineer"
+  place: "Ping Identity"
+  website: "https://www.pingidentity.com/"
+  icon: 'icon-embed2'
+  title: 'Work'
+  date: 'Oct 2018 - Present'
+  desc: >
+          Application Security, Penetration Testing
+          <br />Web Access Management App / API Penetration Testing
+          <br />Burp Suite, Kali Linux, Java, React/Redux, JS
+
 - name: "Software Engineer"
   place: "Pulte Mortgage"
   website: "https://secure.pultemortgage.com/"
