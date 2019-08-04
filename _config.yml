@@ -15,8 +15,7 @@ author:
   head_img: 'static/img/me_circuit.jpg'
   tag: 'Information Security, Application Security, Wireless, Arduino, Distributed Systems, Network Programming, Software Engineering'
   desc: >
-    I am a Security Enginner who loves to tinker with technology. I am interested in a variety of fields
-    including: Information Security, Network Programming, and Distributed Systems.
+    Security Engineer, Penetration Tester. Interested in Application Security, Penetration Testing, Malware, Reverse Engineering, Red Teaming. Also enjoy writing tools.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
