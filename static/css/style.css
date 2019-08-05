@@ -624,6 +624,9 @@ a:focus {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-twitter:before {
+  content: "\e902";
+}
 .icon-book:before {
   content: "\e91f";
 }
