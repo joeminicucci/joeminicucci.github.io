@@ -1,10 +1,23 @@
+- name: 'DefCon 27 - Hunting Mobile Rogue APs'
+  url: 'https://www.wirelessvillage.ninja/speakers.html#hunting_mobile_rogue_access_points'
+  img: 'static/img/defcon.jpg'
+  desc: >
+          Presenting on the usage of the Fox Trap project in 
+          <br> the field to locate mobile rogue APs, implant style.
+
+- name: 'DefCon 26 - Hunting Rogue Access Points'
+  url: 'https://www.youtube.com/watch?v=jGYrE3Jw-e0'
+  img: 'static/img/defcon.jpg'
+  desc: >
+          Presenting on challenges and methodologies in hunting stationary 
+          <br> rogue access points
+
 - name: 'Fox Trap'
   url: 'https://github.com/joeminicucci/fox_trap'
   img: 'static/img/landing/fox.png'
   desc: >
           ESP8266 based wireless mesh Command / Control Infrastructure
           <br> Performs blue / red team wifi ops in the field
-          <br /><strong>C++, Arduino, EspressIf SDK</strong>
 
 - name: 'IEEE Publication'
   url: "https://ieeexplore.ieee.org/document/8036236/?arnumber=8036236"
@@ -15,15 +28,6 @@
           <br> Code available on request
           <br /><strong>Hadoop, Java, MapReduce, YARN</strong>
 
-- name: 'zh-examples'
-  url: 'https://github.com/joeminicucci/zh-examples'
-  img: 'static/img/landing/zhong.png'
-  desc: >
-        A module for the Anki FOSS SRS system which adds Chinese example
-        <br> sentences to the user’s Chinese card collection
-        <br /><strong>Python</strong>
-
-
 - name: 'DEF CON 25 WCTF, 4th Place'
   url: 'https://defcon.org/html/links/dc-ctf.html'
   img: 'static/img/defcon.jpg'
@@ -31,14 +35,6 @@
         Acquired rogue access point using a Raspberry 
         <br> Pi equipped with a Yagi directional antenna
         <br /><strong>airodump-ng, Raspberry Pi</strong>
-
-- name: 'Jalpc'
-  url: 'https://github.com/joeminicucci/joeminicucci.github.io/'
-  img: 'static/img/landing/jekyll.png'
-  desc: >
-          The Jekyll theme on which this website is built.
-          <br /><strong>JS, Liquid Templates</strong>
-
 
 # Co-author and lead developer
 # • Assisted in design of the big data algorithm utilized for a signal analysis predictive model
