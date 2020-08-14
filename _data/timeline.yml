@@ -1,9 +1,41 @@
+- name: "Penetration Testing Consultant"
+  place: "TUV OpenSky"
+  website: "https://www.tuvopensky.com/services/advanced-cyber-defenses/"
+  icon: 'icon-embed2'
+  title: 'Work'
+  date: 'Apr 2020 - Present'
+  desc: >
+          Network, Web Application Penetration Testing
+          <br /> Active Directory Pentesting
+          <br /> Red Team Infrastructure Deployment
+
+- name: "Offensive Security Certified Professional"
+  place: "Offensive Security"
+  website: "https://www.youracclaim.com/badges/dfadc782-d4fa-4cdf-9b7d-a4103370f568/public_url"
+  icon: 'icon-book'
+  title: 'Certification'
+  date: 'July 2020'
+  desc: >
+          Penetration Testing with Kali Course
+          <br /> 24 Hour Hands-On Pentesting Exam
+
+- name: "Penetration Testing Consultant"
+  place: "Plex LLC"
+  website: "https://plex-llc.com/"
+  icon: 'icon-embed2'
+  title: 'Work'
+  date: 'Jul 2019 - Mar 2020'
+  desc: >
+          Network, Web, AD, Wireless Penetration Testing
+          <br /> Red Team Infrastructure Deployment
+          <br /> Phishing & Social Engineering Campaigns
+
 - name: "Application Security Engineer"
   place: "Ping Identity"
   website: "https://www.pingidentity.com/"
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Oct 2018 - Present'
+  date: 'Oct 2018 - Mar 2020'
   desc: >
           Application Security, Penetration Testing
           <br />Web Access Management App / API Penetration Testing
@@ -63,3 +95,13 @@
           B.S. Computer Science, Minor in Chinese language
           <br /> Hashdump Information Security Club, Chinese Club
           <br /> Dean's List, Phi Theta Kappa, Gamma Beta Phi
+
+- name: "Network+"
+  place: "CompTIA"
+  website: "https://www.comptia.org/certifications/network"
+  icon: 'icon-book'
+  title: 'Certification'
+  date: 'Dec 2010'
+  desc: >
+          Completion of the CompTIA Network+ Exam
+          <br /> Credential: COMP001020202710/VERIFY 84991RXLEKRQ1HG0
