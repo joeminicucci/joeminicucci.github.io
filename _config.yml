@@ -18,6 +18,7 @@ author:
   tag: 'Information Security, Application Security, Wireless, Arduino, Distributed Systems, Network Programming, Software Engineering'
   desc: >
     I am Interested in Network, Wireless & Application Security, Red Teaming, Adversary Emulation, Software & Reverse Engineering. I &hearts; writing code!
+
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
@@ -42,9 +43,9 @@ sections:
   - id: "blog"
     name: "Blog"
     tpl: "blog.html"
-  # - id: "contact"
-  #   name: "Contact"
-  #   tpl: contact.html
+  - id: "contact"
+    name: "Contact"
+    tpl: contact.html
 
 # google analytics
 # ga:
