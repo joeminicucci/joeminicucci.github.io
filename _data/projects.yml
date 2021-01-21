@@ -1,9 +1,16 @@
+- name: 'Red Ira - Automated Red Team Cloud'
+  url: ''
+  img: 'static/img/sword.png'
+  desc: >
+          An automation suite for deploying Red Team infrastructure to 
+          <br> AWS, using Terraform and Ansible
+
 - name: 'DefCon 27 - Hunting Mobile Rogue APs'
   url: 'https://www.youtube.com/watch?v=oTcitUA9mhg'
   img: 'static/img/defcon.jpg'
   desc: >
           Presenting on the usage of the Fox Trap project in 
-          <br> the field to locate mobile rogue APs, implant style.
+          <br> the field to locate mobile rogue APs, implant style
 
 - name: 'DefCon 26 - Hunting Rogue Access Points'
   url: 'https://www.youtube.com/watch?v=jGYrE3Jw-e0'
