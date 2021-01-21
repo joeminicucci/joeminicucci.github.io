@@ -12,7 +12,8 @@ author:
   github: 'https://github.com/joeminicucci'
   linkedin: 'https://www.linkedin.com/in/joeminicucci'
   twitter: 'https://www.twitter.com/joeminicucci'
-  cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf' # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf'
+  blog: 'https://blog.joeminicucci.com'
   head_img: 'static/img/me_circuit.jpg'
   tag: 'Information Security, Application Security, Wireless, Arduino, Distributed Systems, Network Programming, Software Engineering'
   desc: >
@@ -38,6 +39,9 @@ sections:
   - id: "projects"
     name: "Projects"
     tpl: "projects.html"
+  - id: "blog"
+    name: "Blog"
+    tpl: "blog.html"
   # - id: "contact"
   #   name: "Contact"
   #   tpl: contact.html
