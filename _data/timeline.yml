@@ -1,13 +1,14 @@
-- name: "Penetration Testing Consultant"
+- name: "Offensive Security Consultant"
   place: "TUV OpenSky"
   website: "https://www.tuvopensky.com/services/advanced-cyber-defenses/"
   icon: 'icon-embed2'
   title: 'Work'
   date: 'Apr 2020 - Present'
   desc: >
-          Network, Web Application Penetration Testing
-          <br /> Active Directory Pentesting
-          <br /> Red Team Infrastructure Deployment
+          Network, Web, AD Penetration Testing
+          <br /> Adversary Emulation, Payload Development
+          <br /> Red Team Infrastructure Automation
+          <br /> Phishing Campaigns, Offensive CI/CD Architect
 
 - name: "Offensive Security Certified Professional"
   place: "Offensive Security"
@@ -19,7 +20,7 @@
           Penetration Testing with Kali Course
           <br /> 24 Hour Hands-On Pentesting Exam
 
-- name: "Penetration Testing Consultant"
+- name: "Offensive Security Consultant"
   place: "Plex LLC"
   website: "https://plex-llc.com/"
   icon: 'icon-embed2'
@@ -28,6 +29,7 @@
   desc: >
           Network, Web, AD, Wireless Penetration Testing
           <br /> Red Team Infrastructure Deployment
+          <br /> Adversary Emulation, Payload Development
           <br /> Phishing & Social Engineering Campaigns
 
 - name: "Application Security Engineer"
@@ -37,9 +39,10 @@
   title: 'Work'
   date: 'Oct 2018 - Mar 2020'
   desc: >
-          Application Security, Penetration Testing
-          <br />Web Access Management App / API Penetration Testing
-          <br />Burp Suite, Kali Linux, Java, React/Redux, JS
+          Web Application / API / Penetration Testing
+          <br /> Wireless / Internal Network Penetation Testing
+          <br /> Threat Modeling, Secure Coding, Threat Analysis
+          <br /> SSDLC Software Security CI/CD Process Automation
 
 - name: "Software Engineer"
   place: "Pulte Mortgage"
@@ -49,7 +52,7 @@
   date: 'Oct 2017 - Oct 2018'
   desc: >
           .NET business process management platform
-          <br />Web application / service development
+          <br />Web application / REST API service development
           <br />C#, .NET, SQL, ASP.NET MVC, KnockoutJS, Web API, EDA
 
 - name: "Lead Developer / Co-Author"
@@ -59,9 +62,8 @@
   title: 'Research'
   date: 'Jan 2016 - Sep 2017'
   desc: >
-          Distributed predictive model algorithm
-          <br>Development
-          <br>Hadoop, Java, MapReduce, YARN, Linear Regression
+          Distributed predictive model algorithm development
+          <br>Hadoop MapReduce, Java, YARN, Linear Regression
 
 - name: 'Software Engineer'
   place: 'New Century Software'
@@ -71,7 +73,7 @@
   date: 'Jun 2015 - Oct 2017'
   desc: >
           .NET data management applications
-          <br />Web / Desktop development
+          <br />Web / desktop, REST API development
           <br />C#, .NET, SQL, ASP.NET MVC, DojoJS, NodeJS, ArcGIS
 
 - name: "Software Development Intern"
@@ -83,7 +85,7 @@
   desc: >
           .NET route accounting applications
           <br />Web development
-          <br />VB.NET, MySQL, JS, NodeJS
+          <br />C#, VB.NET, MySQL, JS, NodeJS, REST / SOAP API
 
 - name: "Computer Science"
   place: "Colorado State University"

@@ -2,8 +2,8 @@
   url: ''
   img: 'static/img/sword.png'
   desc: >
-          An automation suite for deploying Red Team infrastructure to 
-          <br> AWS, using Terraform and Ansible
+          An automation suite for deploying Red Team infrastructure. 
+          <br> Uses Terraform and Ansible for C2 & Phishing deployment
 
 - name: 'DefCon 27 - Hunting Mobile Rogue APs'
   url: 'https://www.youtube.com/watch?v=oTcitUA9mhg'
@@ -23,15 +23,15 @@
   url: 'https://github.com/joeminicucci/fox_trap'
   img: 'static/img/landing/fox.png'
   desc: >
-          ESP8266 based wireless mesh Command / Control Infrastructure
-          <br> Performs blue / red team wifi ops in the field
+          ESP8266 based wireless mesh command & Control tool.
+          <br> Performs dsitributed wifi security ops in the field
 
 - name: 'IEEE Publication'
   url: "https://ieeexplore.ieee.org/document/8036236/?arnumber=8036236"
   img: 'static/img/landing/ieee.png'
   desc: >
-          MapReduce which correlates multiple hybrid vehicle signals against
-          <br> combined fuel economy in a multi-variate linear regression
+          Hadoop MapReduce which correlates multiple hybrid vehicle signals
+          <br> for combined fuel economy in a multi-variate linear regression.
           <br> Code available on request
           <br /><strong>Hadoop, Java, MapReduce, YARN</strong>
 
@@ -39,9 +39,9 @@
   url: 'https://defcon.org/html/links/dc-ctf.html'
   img: 'static/img/defcon.jpg'
   desc: >
-        Acquired rogue access point using a Raspberry 
-        <br> Pi equipped with a Yagi directional antenna
-        <br /><strong>airodump-ng, Raspberry Pi</strong>
+          Acquired rogue access point using a Raspberry 
+          <br> using a Pi equipped with a Yagi directional antenna
+          <br /><strong>airodump-ng, Raspberry Pi</strong>
 
 # Co-author and lead developer
 # • Assisted in design of the big data algorithm utilized for a signal analysis predictive model
