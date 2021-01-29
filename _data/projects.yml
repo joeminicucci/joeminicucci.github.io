@@ -2,46 +2,64 @@
   url: ''
   img: 'static/img/sword.png'
   desc: >
-          An automation suite for deploying Red Team infrastructure. 
-          <br> Uses Terraform and Ansible for C2 & Phishing deployment
+          <ul>
+          <li>An automation suite for deploying Red Team infrastructure</li>
+            <ul>
+            <li>Uses Terraform and Ansible for C2 & Phishing deployment</li>
+            </ul>
+          </ul>
 
 - name: 'DefCon 27 - Hunting Mobile Rogue APs'
   url: 'https://www.youtube.com/watch?v=oTcitUA9mhg'
   img: 'static/img/defcon.jpg'
   desc: >
-          Presenting on the usage of the Fox Trap project in 
-          <br> the field to locate mobile rogue APs, implant style
+          <ul>
+          <li>Presenting on <a href="https://github.com/joeminicucci/fox_trap">Fox Trap project</a>, locating mobile rogue APs</li>
+            <ul>
+            <li>Developed custom ESP8266 mesh implants</li>
+            </ul>
+          </ul>
 
 - name: 'DefCon 26 - Hunting Rogue Access Points'
   url: 'https://www.youtube.com/watch?v=jGYrE3Jw-e0'
   img: 'static/img/defcon.jpg'
   desc: >
-          Presenting on challenges and methodologies in hunting stationary 
-          <br> rogue access points
+          <ul>
+          <li>Presenting on challenges and methodologies in hunting rogue access points</li>
+          </ul>
 
 - name: 'Fox Trap'
   url: 'https://github.com/joeminicucci/fox_trap'
   img: 'static/img/landing/fox.png'
   desc: >
-          ESP8266 based wireless mesh command & Control tool.
-          <br> Performs dsitributed wifi security ops in the field
+          <ul>
+          <li>ESP8266 based wireless mesh command & Control tool.</li>
+            <ul>
+            <li>Performs dsitributed wifi security ops in the field</li>
+            </ul>
+          </ul>
 
 - name: 'IEEE Publication'
   url: "https://ieeexplore.ieee.org/document/8036236/?arnumber=8036236"
   img: 'static/img/landing/ieee.png'
   desc: >
-          Hadoop MapReduce which correlates multiple hybrid vehicle signals
-          <br> for combined fuel economy in a multi-variate linear regression.
-          <br> Code available on request
-          <br /><strong>Hadoop, Java, MapReduce, YARN</strong>
+          <ul>
+          <li>Hadoop MapReduce which correlates multiple hybrid vehicle signals to determine fuel efficiency</li>
+            <ul>
+            <li><strong>Hadoop, Java, MapReduce, YARN</strong></li>
+            </ul>
+          </ul>
 
 - name: 'DEF CON 25 WCTF, 4th Place'
   url: 'https://defcon.org/html/links/dc-ctf.html'
   img: 'static/img/defcon.jpg'
   desc: >
-          Acquired rogue access point using a Raspberry 
-          <br> using a Pi equipped with a Yagi directional antenna
-          <br /><strong>airodump-ng, Raspberry Pi</strong>
+          <ul>
+          <li>Acquired rogue access point using a Raspberry Pi equipped with a Yagi directional antenna</li>
+            <ul>
+            <li><strong>airodump-ng, Raspberry Pi</strong></li>
+            </ul>
+          </ul>
 
 # Co-author and lead developer
 # • Assisted in design of the big data algorithm utilized for a signal analysis predictive model

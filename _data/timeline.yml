@@ -5,10 +5,12 @@
   title: 'Work'
   date: 'Apr 2020 - Present'
   desc: >
-          Network, Web, AD Penetration Testing
-          <br /> Adversary Emulation, Payload Development
-          <br /> Red Team Infrastructure Automation
-          <br /> Phishing Campaigns, Offensive CI/CD Architect
+          <ul>
+          <li>Network, Web, AD Penetration Testing</li>
+          <li>Adversary Emulation, Payload Development</li>
+          <li>Red Team Infrastructure Automation</li>
+          <li>Phishing Campaigns, Offensive CI/CD Architect</li>
+          </ul>
 
 - name: "Offensive Security Certified Professional"
   place: "Offensive Security"
@@ -17,8 +19,10 @@
   title: 'Certification'
   date: 'July 2020'
   desc: >
-          Penetration Testing with Kali Course
-          <br /> 24 Hour Hands-On Pentesting Exam
+          <ul>
+          <li>Penetration Testing with Kali Course</li>
+          <li>24 Hour Hands-On Pentesting Exam</li>
+          </ul>
 
 - name: "Offensive Security Consultant"
   place: "Plex LLC"
@@ -27,10 +31,12 @@
   title: 'Work'
   date: 'Jul 2019 - Mar 2020'
   desc: >
-          Network, Web, AD, Wireless Penetration Testing
-          <br /> Red Team Infrastructure Deployment
-          <br /> Adversary Emulation, Payload Development
-          <br /> Phishing & Social Engineering Campaigns
+          <ul>
+          <li>Network, Web, AD, Wireless Penetration Testing</li>
+          <li>Red Team Infrastructure Deployment</li>
+          <li>Adversary Emulation, Payload Development</li>
+          <li>Phishing & Social Engineering Campaigns</li>
+          </ul>
 
 - name: "Application Security Engineer"
   place: "Ping Identity"
@@ -39,10 +45,12 @@
   title: 'Work'
   date: 'Oct 2018 - Mar 2020'
   desc: >
-          Web Application / API / Penetration Testing
-          <br /> Wireless / Internal Network Penetation Testing
-          <br /> Threat Modeling, Secure Coding, Threat Analysis
-          <br /> SSDLC Software Security CI/CD Process Automation
+          <ul>
+          <li>Web Application / API / Penetration Testing</li>
+          <li>Wireless / Internal Network Penetation Testing</li>
+          <li>Threat Modeling, Secure Coding, Threat Analysis</li>
+          <li>SSDLC Software Security CI/CD Process Automation</li>
+          </ul>
 
 - name: "Software Engineer"
   place: "Pulte Mortgage"
@@ -51,9 +59,11 @@
   title: 'Work'
   date: 'Oct 2017 - Oct 2018'
   desc: >
-          .NET business process management platform
-          <br />Web application / REST API service development
-          <br />C#, .NET, SQL, ASP.NET MVC, KnockoutJS, Web API, EDA
+          <ul>
+          <li>.NET business process management platform</li>
+          <li>Web application / REST API development</li>
+          <li>C#, .NET, SQL, ASP.NET MVC, KnockoutJS, Web API, EDA</li>
+          </ul>
 
 - name: "Lead Developer / Co-Author"
   place: "CSU Energy Institute / IEEE Publications"
@@ -62,8 +72,12 @@
   title: 'Research'
   date: 'Jan 2016 - Sep 2017'
   desc: >
-          Distributed predictive model algorithm development
-          <br>Hadoop MapReduce, Java, YARN, Linear Regression
+          <ul>
+          <li>Distributed predictive model algorithm development</li>
+            <ul>
+            <li>Hadoop MapReduce, Java, YARN, Linear Regression</li>
+            </ul>
+          </ul>
 
 - name: 'Software Engineer'
   place: 'New Century Software'
@@ -72,9 +86,11 @@
   title: 'Work'
   date: 'Jun 2015 - Oct 2017'
   desc: >
-          .NET data management applications
-          <br />Web / desktop, REST API development
-          <br />C#, .NET, SQL, ASP.NET MVC, DojoJS, NodeJS, ArcGIS
+          <ul>
+          <li>.NET data management applications</li>
+          <li>Web / desktop, REST API development</li>
+          <li>C#, .NET, SQL, ASP.NET MVC, DojoJS, NodeJS, ArcGIS</li>
+          </ul>
 
 - name: "Software Development Intern"
   place: "Encompass Technologies"
@@ -83,9 +99,11 @@
   title: 'Work'
   date: 'Jan 2015 - May 2015'
   desc: >
-          .NET route accounting applications
-          <br />Web development
-          <br />C#, VB.NET, MySQL, JS, NodeJS, REST / SOAP API
+          <ul>
+          <li>.NET route accounting applications</li>
+          <li>Web development</li>
+          <li>C#, VB.NET, MySQL, JS, NodeJS, REST / SOAP API</li>
+          </ul>
 
 - name: "Computer Science"
   place: "Colorado State University"
@@ -94,9 +112,13 @@
   title: 'Education'
   date: 'Aug 2013 - May 2016'
   desc: >
-          B.S. Computer Science, Minor in Chinese language
-          <br /> Hashdump Information Security Club, Chinese Club
-          <br /> Dean's List, Phi Theta Kappa, Gamma Beta Phi
+          <ul>
+          <li>B.S. Computer Science, Minor in Chinese language</li>
+            <ul>
+            <li>Hashdump Information Security Club, Chinese Club</li>
+            <li>Dean's List, Phi Theta Kappa, Gamma Beta Phi</li>
+            </ul>
+          </ul>
 
 - name: "Network+"
   place: "CompTIA"
@@ -105,5 +127,9 @@
   title: 'Certification'
   date: 'Dec 2010'
   desc: >
-          Completion of the CompTIA Network+ Exam
-          <br /> Credential: COMP001020202710/VERIFY 84991RXLEKRQ1HG0
+          <ul>
+          <li>Completion of the CompTIA Network+ Exam</li>
+            <ul>
+            <li>Credential: COMP001020202710/<a href="https://www.certmetrics.com/comptia/public/verification.aspx/">VERIFY 84991RXLEKRQ1HG0</a></li>
+            </ul>
+          </ul>
