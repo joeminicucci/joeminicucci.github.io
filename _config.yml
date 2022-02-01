@@ -1,7 +1,7 @@
 # Website settings
 title: "Joe Minicucci"
 description: "Joe Minicucci's personal website."
-keywords: "joe,minicucci,resume,personal,portfolio"
+keywords: "joe,minicucci,resume,cv,personal,portfolio"
 baseurl: "/"
 url: "http://joeminicucci.github.io"
 favicon: "static/img/kali2.png?v=2"
@@ -12,12 +12,11 @@ author:
   github: 'https://github.com/joeminicucci'
   linkedin: 'https://www.linkedin.com/in/joeminicucci'
   twitter: 'https://www.twitter.com/joeminicucci'
-  cv: 'https://github.com/joeminicucci/resume/blob/master/Joe_Minicucci_Resume.pdf'
   blog: 'https://blog.joeminicucci.com'
   head_img: 'static/img/me_circuit.jpg'
-  tag: 'Information Security, Application Security, Wireless, Arduino, Distributed Systems, Network Programming, Software Engineering'
+  tag: 'Information Security, Application Security, Adversary Emulation, Penetration Testing, Software Engineering'
   desc: >
-    I am an Offensive Security Engineer specializing in Penetration Testing and Red Teaming, with a background in Software Engineering and Computer Science. Interested in a variety of fields including: Network, Application, Wireless and Physical Security, Adversary Emulation, Software & Reverse Engineering. I &hearts; writing code!
+    Security Consultant specializing in Penetration Testing and Red Teaming, with a background in Software Engineering and Computer Science. Interested in a variety of fields including: Network, Application, Wireless and Physical Security, Adversary Emulation, Software & Reverse Engineering. I &hearts; writing code!
 
 stylesheets:
   - url: "lib/css/bootstrap.min.css"

@@ -1,15 +1,39 @@
-- name: "Offensive Security Consultant"
-  place: "TUV OpenSky"
-  website: "https://www.tuvopensky.com/services/advanced-cyber-defenses/"
+- name: "Security Consultant"
+  place: ""
+  website: ""
   icon: 'icon-embed2'
   title: 'Work'
-  date: 'Apr 2020 - Present'
+  date: 'Jul 2019 - Present'
   desc: >
           <ul>
-          <li>Network, Web, AD Penetration Testing</li>
-          <li>Adversary Emulation, Payload Development</li>
+          <li>Network, Web, AD, Wireless Penetration Testing</li>
+          <li>Adversary Emulation, Implant Development</li>
           <li>Red Team Infrastructure Automation</li>
-          <li>Phishing Campaigns, Offensive CI/CD Architect</li>
+          <li>Phishing & SE Campaigns
+          <li>Offensive Infrastructure Engineer</li>
+          </ul>
+
+- name: "Offensive Security Experienced Pentester"
+  place: "Offensive Security"
+  website: "https://www.offensive-security.com/pen300-osep/"
+  icon: 'icon-book'
+  title: 'Certification'
+  date: 'Present'
+  desc: >
+          <ul>
+          <li>(In Progress) Evasion Techniques and Breaching Defenses Course</li>
+          </ul>
+
+- name: "Practical Hacking and Defense of RFID Training"
+  place: "Red Team Alliance"
+  website: "https://www.redteamalliance.com/RTCG.html"
+  icon: 'icon-book'
+  title: 'Training'
+  date: '2021'
+  desc: >
+          <ul>
+          <li>Explored Physical Access Systems in the real world</li>
+          <li>Learned to operate Proxmark3, ESPKey</li>
           </ul>
 
 - name: "Offensive Security Certified Professional"
@@ -22,20 +46,6 @@
           <ul>
           <li>Penetration Testing with Kali Course</li>
           <li>24 Hour Hands-On Pentesting Exam</li>
-          </ul>
-
-- name: "Offensive Security Consultant"
-  place: "Plex LLC"
-  website: "https://plex-llc.com/"
-  icon: 'icon-embed2'
-  title: 'Work'
-  date: 'Jul 2019 - Mar 2020'
-  desc: >
-          <ul>
-          <li>Network, Web, AD, Wireless Penetration Testing</li>
-          <li>Red Team Infrastructure Deployment</li>
-          <li>Adversary Emulation, Payload Development</li>
-          <li>Phishing & Social Engineering Campaigns</li>
           </ul>
 
 - name: "Application Security Engineer"
