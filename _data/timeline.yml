@@ -1,4 +1,4 @@
-- name: "Security Consultant"
+- name: "Security Practioner"
   place: ""
   website: ""
   icon: 'icon-embed2'
@@ -10,7 +10,8 @@
           <li>Adversary Emulation, Implant Development</li>
           <li>Red Team Infrastructure Automation</li>
           <li>Phishing & SE Campaigns
-          <li>Offensive Infrastructure Engineer</li>
+          <li>Offensive Infrastructure Engineering</li>
+          <li>Application Security Engineering</li>
           </ul>
 
 - name: "Offensive Security Experienced Pentester"
