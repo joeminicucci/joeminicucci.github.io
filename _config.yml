@@ -15,7 +15,7 @@ author:
   head_img: 'static/img/me_circuit.jpg'
   tag: 'Information Security, Application Security, Adversary Emulation, Penetration Testing, Software Engineering'
   desc: >
-    Information Security practioner focusing on Penetration Testing, Offenseive Security Engineering and Red Teaming, with a background in Software Engineering and Computer Science. Interested in a variety of fields including: Network, Application, Wireless and Physical Security, Adversary Emulation, Software & Reverse Engineering. I &hearts; writing code!
+    Information Security practitioner focusing on Penetration Testing, Offenseive Security Engineering and Red Teaming, with a background in Software Engineering and Computer Science. Interested in a variety of fields including: Network, Application, Wireless and Physical Security, Adversary Emulation, Software & Reverse Engineering. I &hearts; writing code!
 
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
