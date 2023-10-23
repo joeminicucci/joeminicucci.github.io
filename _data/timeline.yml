@@ -6,12 +6,12 @@
   date: 'Jul 2019 - Present'
   desc: >
           <ul>
-          <li>Network, Web, AD, Wireless Penetration Testing</li>
-          <li>Adversary Emulation, Implant Development</li>
-          <li>Red Team Infrastructure Automation</li>
-          <li>Phishing & SE Campaigns
-          <li>Offensive Infrastructure Engineering</li>
           <li>Application Security Engineering</li>
+          <li>DevSecOps / SSDLC Development</li>
+          <li>Web, API, Network, AD, Wireless Penetration Testing</li>
+          <li>Adversary Emulation</li>
+          <li>Red Team Infrastructure Engineering</li>
+          <li>Phishing & SE Campaigns </li>
           </ul>
 
 - name: "Offensive Security Experienced Pentester"
