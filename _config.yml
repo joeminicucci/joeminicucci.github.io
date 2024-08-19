@@ -15,7 +15,7 @@ author:
   head_img: 'static/img/me_circuit.jpg'
   tag: 'Information Security, Application Security, Adversary Emulation, Penetration Testing, Software Engineering'
   desc: >
-    Information Security practitioner focusing on Application Security, DevSecOps, Penetration Testing, Offenseive Security Engineering and Red Teaming. My background is in Software Engineering and Computer Science. I am interested in a variety of fields also including: Wireless and Physical Security, Adversary Emulation, Software and Reverse Engineering, and linguistics. I can speak Mandarin and am currently learning German and Korean.
+    Information Security practitioner focusing on Application Security, DevSecOps, Penetration Testing, Offenseive Security Engineering and Red Teaming. My background is in Software Engineering and Computer Science. I am interested in a variety of fields also including: Wireless and Physical Security, Adversary Emulation, Software and Reverse Engineering, and linguistics. I can speak Mandarin and am currently learning German.
 stylesheets:
   - url: "lib/css/bootstrap.min.css"
   - url: "lib/css/animate.min.css"
