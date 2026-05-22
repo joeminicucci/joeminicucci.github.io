@@ -1,5 +1,347 @@
----
-title: robots
----
+# robots.txt - Block known scrapers, AI crawlers, and SEO bots
+# Last updated: 2026
+
+# ============================================
+# AI / LLM Training Crawlers
+# ============================================
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ByteDance
+Disallow: /
+
+User-agent: TikTokSpider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: AwarioBot
+Disallow: /
+
+User-agent: AwarioRssBot
+Disallow: /
+
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: peer39_crawler/1.0
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+User-agent: Crawlspace
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: Mistral
+Disallow: /
+
+User-agent: MistralAI-User
+Disallow: /
+
+User-agent: NovaAct
+Disallow: /
+
+User-agent: Operator
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: iaskspider/2.0
+Disallow: /
+
+User-agent: QualifiedBot
+Disallow: /
+
+# ============================================
+# SEO / Marketing / Analytics Crawlers
+# ============================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: SerpstatBot
+Disallow: /
+
+User-agent: LinkpadBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: ZoomBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: linkfluence
+Disallow: /
+
+User-agent: SBL-BOT
+Disallow: /
+
+User-agent: ev-crawler
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: SiteCheckerBotCrawler
+Disallow: /
+
+User-agent: SISTRIX Crawler
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: BomboraBot
+Disallow: /
+
+User-agent: NetcraftSurveyAgent
+Disallow: /
+
+# ============================================
+# Archive / Mirroring / Scraping Tools
+# ============================================
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: ProWebWalker
+Disallow: /
+
+User-agent: CheeseBot
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: Custo
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+# ============================================
+# Catch-all for any other automated bots
+# ============================================
 User-agent: *
 Disallow: /
